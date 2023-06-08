@@ -1,0 +1,30 @@
+.bond{
+   background-color: aquamarine;
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 90%;
+   padding: 1rem 0;
+}
+
+
+.vibe{
+   background-color: rgb(217, 214, 214);
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-transform: capitalize;
+   margin-top: 1rem;
+   width: 90%;
+}
+
+.game{
+   background-color: rgb(144, 81, 81);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 90%;
+   text-align: center;
+}
+
+h1{
+   text-align: center;
+   text-transform: uppercase;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
